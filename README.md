@@ -11,3 +11,6 @@ Epreuve 2:
   Essayer de résoudre ce problème en essayant d'obtenir le meilleur score possible préférablement en Haskell, car la compétition sera en Haskell. Les mêmes modalités de remise qu'à l'épreuve 1 s'applique.
   https://www.hackerrank.com/challenges/stocks-prediction/problem 
   
+ Epreuve 3:
+  Génie logiciel
+   Un commercant souhaite implanter un système de gestion de stocks pour son magasin 
