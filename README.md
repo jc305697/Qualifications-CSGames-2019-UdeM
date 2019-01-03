@@ -1,7 +1,7 @@
 Qualifications CSGames 2019 UdeM
 
 Epreuve 1: Reverse engineering  
-  Essayer de résoudre ce problème en essayant d'obtenir le meilleur score possible dans le plus de langage possible. Vous soumettrez votre code que vous avez utilisé ainsi qu'une capture d'écran de votre score et de votre rank. 
+  Essayer de résoudre ce problème en essayant d'obtenir le meilleur score possible dans le plus de langage possible. Vous soumettrez votre code que vous avez utilisé ainsi qu'une capture d'écran de votre score et de votre rang. 
 https://www.codingame.com/multiplayer/optimization/codingame-sponsored-contest
 
 Epreuve 2: Programmation Fonctionelle  
